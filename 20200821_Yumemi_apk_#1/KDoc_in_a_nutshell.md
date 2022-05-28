@@ -12,6 +12,7 @@ footer: © 2020 okuzawats
 okuzawats
 YUMEMI.apk #1
 2020/08/21
+converted to markdown format 2022/05/28
 
 <!--
 _class: lead

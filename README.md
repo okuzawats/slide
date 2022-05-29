@@ -15,7 +15,7 @@
 
 スライドは [こちら](https://github.com/okuzawats/slide/blob/main/20200821_Yumemi_apk_%231/KDoc_in_a_nutshell.md) です。
 
-## YUMEMI.apk #2 〜ようこそ！Android 11〜（2020年11月27日）
+### YUMEMI.apk #2 〜ようこそ！Android 11〜（2020年11月27日）
 
 [YUMEMI.apk #2 〜ようこそ！Android 11〜 - connpass](https://yumemi.connpass.com/event/191284/) で、「**Say good-bye to Kotlin Android Extensions**」というタイトルで発表しました。
 

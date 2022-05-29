@@ -17,12 +17,12 @@
 
 ### YUMEMI.apk #2 〜ようこそ！Android 11〜（2020年11月27日）
 
-[YUMEMI.apk #2 〜ようこそ！Android 11〜 - connpass](https://yumemi.connpass.com/event/191284/) で、「**Say good-bye to Kotlin Android Extensions**」というタイトルで発表しました。
+[YUMEMI.apk #2 〜ようこそ！Android 11〜](https://yumemi.connpass.com/event/191284/) で、「**Say good-bye to Kotlin Android Extensions**」というタイトルで発表しました。
 
 スライドは [こちら](https://github.com/okuzawats/slide/blob/main/20201127_Yumemi_apk_%232/say_good-bye_to_kotlin_android_extensions.md) です。
 
 ### 明日思わず誰かに伝えたくなる話 フラー x ちゅらデータ合同勉強会（2022年3月11日）
 
-[明日思わず誰かに伝えたくなる話 - connpass](https://churadata.connpass.com/event/237070/) で、「**Kotlinのifを愛でる**」というタイトルで発表しました。
+[明日思わず誰かに伝えたくなる話](https://churadata.connpass.com/event/237070/) で、「**Kotlinのifを愛でる**」というタイトルで発表しました。
 
 スライドは [こちら](https://github.com/okuzawats/slide/blob/main/20220311_Chura_Collaboration_%239/love-kotlin-if.md) です。

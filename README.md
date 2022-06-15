@@ -26,3 +26,9 @@
 [明日思わず誰かに伝えたくなる話](https://churadata.connpass.com/event/237070/) で、「**Kotlinのifを愛でる**」というタイトルで発表しました。
 
 スライドは [こちら](https://github.com/okuzawats/slide/blob/main/20220311_Chura_Collaboration_%239/love-kotlin-if.md) です。
+
+### Engineer LT#1 Android｜Organized by U-NEXT（2022年7月14日）
+
+[Engineer LT#1 Android｜Organized by U-NEXT](https://u-next-corporate.connpass.com/event/247901/) で、「**GitHub ActionsでAndroidアプリのテストを回しまくってたら全プロジェクトのCI/CDが完全停止する寸前だった件**」というタイトルで発表しました。
+
+スライドは[こちら](https://github.com/okuzawats/slide/blog/main/engineer-lt-unext-1/github-actions.md)です。

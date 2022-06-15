@@ -31,4 +31,4 @@
 
 [Engineer LT#1 Android｜Organized by U-NEXT](https://u-next-corporate.connpass.com/event/247901/) で、「**GitHub ActionsでAndroidアプリのテストを回しまくってたら全プロジェクトのCI/CDが完全停止する寸前だった件**」というタイトルで発表しました。
 
-スライドは[こちら](https://github.com/okuzawats/slide/blog/main/engineer-lt-unext-1/github-actions.md)です。
+スライドは[こちら](https://github.com/okuzawats/slide/blob/main/20220614_Engineer_LT_%231_Android_Organized_by_U-NEXT/github-actions.md)です。
